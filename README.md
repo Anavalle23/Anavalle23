@@ -4,7 +4,11 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=TIMES+NEW+ROMAN&pause=1000&color=740007&width=435&lines=Hello+World%2C+it's+Ana+Valle!)](https://git.io/typing-svg)
+<p align="CENTER">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=TIMES+NEW+ROMAN&size=37&pause=1000&color=740007&center=true&vCenter=true&width=700&lines=Hello+World%2C+it's+Ana+Valle!" alt="Typing SVG" />
+  </a>
+</p>
 
 ###
 
