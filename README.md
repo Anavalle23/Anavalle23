@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there, I’m Ana Valle 👋
 
-<!--
-**Anavalle23/Anavalle23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Systems Engineering student
+🌱 Currently learning Full Stack Development
+🚀 Building projects with React, Node.js, Express, PostgreSQL and GitHub
+🎯 Interested in web apps, databases, APIs and real-world software solutions
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Frontend:
+HTML · CSS · JavaScript · React · Vite
+
+Backend:
+Node.js · Express
+
+Database:
+PostgreSQL · MySQL
+
+Tools:
+Git · GitHub · VS Code · Railway · Netlify
+
+⸻
+
+📌 About me
+
+I enjoy creating practical, clean and useful software projects.
+Right now, I’m focused on improving my skills as a Full Stack Developer and building systems that solve real problems.
+
+⸻
+
+📫 Contact
+
+* GitHub: @Anavalle23
+* Email: anagabrielavalle300@gmail.com
+
+⸻
+
+✨ Always learning, always building.
